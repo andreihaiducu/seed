@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ria-api" />
+        <module name="ria-repository" />
+        <module name="ria-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ria-api" target="1.6" />
+      <module name="ria-repository" target="1.6" />
+      <module name="ria-service" target="1.6" />
+      <module name="riabackend" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

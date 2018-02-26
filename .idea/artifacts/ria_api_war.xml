@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ria-api:war">
+    <output-path>$PROJECT_DIR$/ria-api/target</output-path>
+    <root id="archive" name="ria-api-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ria-api:war exploded" />
+    </root>
+  </artifact>
+</component>

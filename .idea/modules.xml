@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ria-api/ria-api.iml" filepath="$PROJECT_DIR$/ria-api/ria-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ria-repository/ria-repository.iml" filepath="$PROJECT_DIR$/ria-repository/ria-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ria-service/ria-service.iml" filepath="$PROJECT_DIR$/ria-service/ria-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/riabackend.iml" filepath="$PROJECT_DIR$/riabackend.iml" />
+    </modules>
+  </component>
+</project>
